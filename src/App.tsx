@@ -1,6 +1,6 @@
 import { BrowserRouter as Router } from 'react-router-dom';
 
-// import Routes from './routes';
+import Routes from './Routes';
 
 import GlobalStyle from './styles/global';
 
@@ -9,7 +9,7 @@ export const App = () => {
     <>
       <GlobalStyle />
       <Router>
-        {/* <Routes /> */}
+        <Routes />
       </Router>
     </>
   )
