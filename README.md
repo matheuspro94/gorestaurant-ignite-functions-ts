@@ -2,12 +2,6 @@
 
 Esse é um projeto do curso da Rockeseat aonde pode aprender mais sobre ReactJS, Typescript e Styled Component. Neste projeto é possível cadastrar, editar e excluir um prato, também é possível dizer se este prato está disponível ou não.
 
-## IMPORTANTE:
-
-Para rodar aplicação é importante rodar localmente o back-end, segue o link do back end:
-
-`git@github.com:matheuspro94/gorestaurant-ignite-functions-ts.git`
-
 ## RODANDO A APLICAÇÃO LOCALMENTE:
 
 ```bash
@@ -24,6 +18,7 @@ Instale as dependências:
 $ yarn
  
 Execute o servidor:
+
 $ yarn server
 
 Execute a aplicação:
