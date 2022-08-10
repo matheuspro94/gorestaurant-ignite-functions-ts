@@ -1,4 +1,4 @@
-## GO RESTAURANT
+## GO RESTAURANT.
 
 Esse é um projeto do curso da Rockeseat aonde pode aprender mais sobre ReactJS, Typescript e Styled Component. Neste projeto é possível cadastrar, editar e excluir um prato, também é possível dizer se este prato está disponível ou não.
 
